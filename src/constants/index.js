@@ -17,6 +17,8 @@ import {
   Memories_App,
   Youtube_clone,
   User_Panel,
+  Admin_Dashboard1,
+  Admin_Dashboard2,
   tripguide,
   express,
   firebase,
@@ -285,6 +287,57 @@ const projects = [
     ],
     image: User_Panel,
     source_code_link: "https://github.com/kunalBari5557/Admin_Panel",
+  },
+  {
+    name: "Admin Dashboard",
+    description:
+      "This project is a modern, responsive dashboard UI built using React and Tailwind CSS. It features a clean, minimalistic design and includes interactive components such as a sidebar navigation, header, and scrollable main content. The dashboard is fully responsive, ensuring seamless performance across different devices and screen sizes.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MUI",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind | Html | CSS",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: Admin_Dashboard1,
+    source_code_link: "https://github.com/kunalBari5557/React-Dashboard",
+  },
+  {
+    name: "Admin Dashboard",
+    description:
+      "This is a modern and visually appealing Admin Panel interface designed to provide users with key insights into financial transactions, budgets, and savings. The dashboard features a sleek, dark-themed UI with vibrant orange accents to highlight important data points and actions.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MUI",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind | Html | CSS",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: Admin_Dashboard2,
+    source_code_link:
+      "https://github.com/kunalBari5557/React_Vite_Theme_Dasboard",
   },
 ];
 

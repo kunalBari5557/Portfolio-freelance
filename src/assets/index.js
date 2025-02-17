@@ -23,11 +23,13 @@ import Social_Media_App from "./Social_Media_App.png";
 import Memories_App from "./Memories_App.png";
 import Youtube_clone from "./Youtube_clone.png";
 import User_Panel from "./User_Panel.png";
+import Admin_Dashboard1 from "./Admin_Dashboard1.png";
+import Admin_Dashboard2 from "./Admin_Dashboard2.png";
 import tripguide from "./tripguide.png";
 import Pdlogo from "./company/PdLogo.jpg";
 import GbLogo from "./company/Gblogo.png";
 import SpLogo from "./company/SpLogo.png";
-import high from "./high.png"
+import high from "./high.png";
 
 export {
   backend,
@@ -54,9 +56,11 @@ export {
   Memories_App,
   Youtube_clone,
   User_Panel,
+  Admin_Dashboard1,
+  Admin_Dashboard2,
   tripguide,
   Pdlogo,
   SpLogo,
   GbLogo,
-  high
+  high,
 };
